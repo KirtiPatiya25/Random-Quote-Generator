@@ -23,7 +23,7 @@ A simple web application that displays random motivational quotes. Built using H
 
 • Click the “New Quote” button to generate a random quote.
 
-• ✍️ Add your own quotes by editing the quotes array in index.js.
+• ✍️ Add your own quotes by editing the quotes array in first.js.
 
 • 🎨 Customize the styling via style.css to match your design preferences.
 
