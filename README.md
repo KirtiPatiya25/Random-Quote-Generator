@@ -22,11 +22,16 @@ A simple web application that displays random motivational quotes. Built using H
 🚀 Usage
 
 • Click the “New Quote” button to generate a random quote.
+
 • ✍️ Add your own quotes by editing the quotes array in index.js.
+
 • 🎨 Customize the styling via style.css to match your design preferences.
+
 
 🛠 Technologies Used
 
 • HTML – Structure of the web page.
+
 • CSS – Styling and layout of the quote box and button.
+
 • JavaScript – Logic to randomly generate quotes.
