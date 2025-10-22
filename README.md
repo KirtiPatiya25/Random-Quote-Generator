@@ -7,10 +7,15 @@ A simple web application that displays random motivational quotes. Built using H
 🌟 Features
 
 • 📝 Displays a random quote on button click.
+
 • 🎨 Clean, responsive, and lightweight design.
+
 • ✏️ Easily customizable with your own quotes.
+
 • 💎 Stylish quote card with hover effects.
+
 • 🌐 Works on all modern browsers.
+
 • ⚡ Minimal setup, ready to use.
 
 
